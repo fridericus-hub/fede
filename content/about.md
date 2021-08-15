@@ -12,5 +12,5 @@ Durante la sua permanenza a Milano collabora alla creazione di video per prestig
 Triennale Milano; è assistente alla regia di numerosi videoclip di artisti quali Cosmo, Gazzelle, Baustelle, Ghemon,
 Francesca Michielin ecc...; partecipa a set più strutturati come spot e cortometraggi con il ruolo di video assist e/o
 aiuto operatore per il direttore della fotografia [Stefano Grilli](http://www.stefano-grilli.com/).
-Durante la pandemia riprende in mano i libri e tenta l'accesso alla facoltà di informatica dell'Università
-degli Studi di Milano, con esito positivo si iscrive al corso di informatica per comunicazione digitale.
+Durante la pandemia riprende in mano i libri e tenta l'accesso alla facoltà di Informatica dell'Università
+degli Studi di Milano, con esito positivo si iscrive al corso di Informatica per la Comunicazione Digitale.

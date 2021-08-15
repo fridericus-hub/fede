@@ -45,4 +45,4 @@ pygmentsCodefences       = true
     text = "chi?"
 
 [imaging]
-    quality = 50
+    quality = 80
